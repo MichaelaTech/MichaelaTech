@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @MichaelaTech!
+- 👋 Hi, I’m @MichaelaTech! A data analyst.
+- 💃 Entrepreneur, lover of learning, constantly seeking growth.
 - 👀 I’m interested in data science, software solutions for improving humanity, and learning all things tech.
-- 🌱 I’m currently learning Python, SQL, and Pandas.
-- 💞️ I’m looking to collaborate on coding and data science-related projects.
+- 💞️ I’m looking to collaborate with those seeking to improve the human condition through leveraging data science.
+- 🌴 Yoga. Travel. Family. Tech-Mom.
